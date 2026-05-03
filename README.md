@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanzhaoyuan&theme=dark)
