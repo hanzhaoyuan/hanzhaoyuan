@@ -10,8 +10,8 @@
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=hanzhaoyuan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzhaoyuan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Langs" />
+<img height="150" src="https://readme-stats-github.vercel.app/api?username=hanzhaoyuan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Stats" />
+<img height="150" src="https://readme-stats-github.vercel.app/api/top-langs/?username=hanzhaoyuan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Langs" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-hanzhaoyuan-181717?style=flat-square&logo=github)](https://github.com/hanzhaoyuan)
 [![Email](https://img.shields.io/badge/Email-联系-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:your.email@example.com)
